@@ -19,3 +19,10 @@ THEY ARE WRITTEN THIS WAY:
   1. title element
   2. meta element
   3. style element
+
+it is written this way
+<head>
+  <meta charset="utf-8">
+  <title> </title>
+  <style> </style>
+  </head>
