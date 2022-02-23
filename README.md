@@ -15,4 +15,4 @@ THEY ARE WRITTEN THIS WAY:
   <body>
   </body>
   </html>
-  
+  Inside the head element of the html, there are:
