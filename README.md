@@ -16,3 +16,6 @@ THEY ARE WRITTEN THIS WAY:
   </body>
   </html>
   Inside the head element of the html, there are:
+  1. title element
+  2. meta element
+  3. style element
