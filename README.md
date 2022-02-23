@@ -26,3 +26,15 @@ it is written this way
   <title> </title>
   <style> </style>
   </head>
+
+The full html code is:
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+  <title> </title>
+  <style> </style>
+  </head>
+  <body>
+  </body>
+  </html>
